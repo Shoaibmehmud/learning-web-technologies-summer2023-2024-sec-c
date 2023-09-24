@@ -1,0 +1,29 @@
+<Employees>
+  <employee>
+       <name>Samsung</name>
+       <id> 11 </id>
+       <unitPrice>3500</unitPrice>
+       <stock>50</stock>
+       <status>1</status>
+</employee>
+
+<employee>
+        <id>20</id>
+        <name>HTC</name>
+        <unitprice>65300</unitprice>
+        <stock>50</stock>
+        <status>0</status>
+</employee>
+
+<employee>
+        <id>23</id>
+        <name>Nokia</name>
+        <unitpice>25100</unitpice>
+        <stock>100</stock>
+        <status>1</status>
+</employee>
+</employee>
+
+
+
+
